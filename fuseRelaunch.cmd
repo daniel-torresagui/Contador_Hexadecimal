@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_16tb_isim_beh.exe" -prj "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_16tb_beh.prj" "work.Contador_16tb" 

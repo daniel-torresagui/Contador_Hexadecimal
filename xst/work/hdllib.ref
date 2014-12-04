@@ -1,0 +1,16 @@
+AR and3 behavioral "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND3.vhd" sub00/vhpl13 1417558712
+EN inv NULL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/INV.vhd" sub00/vhpl04 1417558699
+AR inv behavioral "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/INV.vhd" sub00/vhpl05 1417558700
+AR ffjk behavioral "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFJK.vhd" sub00/vhpl01 1417558706
+AR contador_4b structural "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_4b.vhd" sub00/vhpl03 1417558710
+EN ffjk NULL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFJK.vhd" sub00/vhpl00 1417558705
+AR and2 behavioral "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND2.vhd" sub00/vhpl07 1417558702
+AR ffsr behavioral "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFSR.vhd" sub00/vhpl11 1417558708
+EN or2 NULL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/OR2.vhd" sub00/vhpl08 1417558703
+EN contador_4b NULL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_4b.vhd" sub00/vhpl02 1417558709
+AR or2 behavioral "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/OR2.vhd" sub00/vhpl09 1417558704
+EN contador_8b NULL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_8b.vhd" sub00/vhpl14 1417558713
+EN ffsr NULL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFSR.vhd" sub00/vhpl10 1417558707
+AR contador_8b structural "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_8b.vhd" sub00/vhpl15 1417558714
+EN and2 NULL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND2.vhd" sub00/vhpl06 1417558701
+EN and3 NULL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND3.vhd" sub00/vhpl12 1417558711

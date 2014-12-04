@@ -1,0 +1,58 @@
+V3 31
+FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND2.vhd" 2014/12/02.16:51:58 P.20131013
+EN work/AND2 1417558701 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND2.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/AND2/Behavioral 1417558702 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND2.vhd" \
+      EN work/AND2 1417558701
+FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND3.vhd" 2014/12/02.18:02:11 P.20131013
+EN work/AND3 1417558711 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND3.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/AND3/Behavioral 1417558712 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/AND3.vhd" \
+      EN work/AND3 1417558711
+FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_4b.vhd" 2014/12/02.17:34:21 P.20131013
+EN work/Contador_4b 1417558709 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_4b.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Contador_4b/structural 1417558710 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_4b.vhd" \
+      EN work/Contador_4b 1417558709 CP INV CP AND2 CP OR2 CP FFJK
+FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_8b.vhd" 2014/12/02.18:18:12 P.20131013
+EN work/Contador_8b 1417558713 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_8b.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Contador_8b/STRUCTURAL 1417558714 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/Contador_8b.vhd" \
+      EN work/Contador_8b 1417558713 CP AND2 CP INV CP FFSR CP Contador_4b CP AND3 \
+      CP OR2
+FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFJK.vhd" 2014/12/02.16:10:11 P.20131013
+EN work/FFJK 1417558705 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFJK.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FFJK/Behavioral 1417558706 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFJK.vhd" \
+      EN work/FFJK 1417558705
+FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFSR.vhd" 2014/12/02.22:24:30 P.20131013
+EN work/FFSR 1417558707 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFSR.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FFSR/Behavioral 1417558708 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/FFSR.vhd" \
+      EN work/FFSR 1417558707
+FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/INV.vhd" 2014/12/02.16:51:58 P.20131013
+EN work/INV 1417558699 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/INV.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/INV/Behavioral 1417558700 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/INV.vhd" \
+      EN work/INV 1417558699
+FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/OR2.vhd" 2014/12/02.16:51:58 P.20131013
+EN work/OR2 1417558703 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/OR2.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/OR2/Behavioral 1417558704 \
+      FL "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/OR2.vhd" \
+      EN work/OR2 1417558703

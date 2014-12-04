@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/daniel/Dropbox/Universidad/Semestre 7/Sis. digitales/laboratorio/Contador_Hexadecimal/xst"
+elaborate
+-ifn FFJK.prj
+-ifmt mixed

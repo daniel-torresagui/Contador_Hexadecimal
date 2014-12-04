@@ -1,0 +1,8 @@
+vhdl work "OR2.vhd"
+vhdl work "INV.vhd"
+vhdl work "FFJK.vhd"
+vhdl work "AND2.vhd"
+vhdl work "FFSR.vhd"
+vhdl work "Contador_4b.vhd"
+vhdl work "AND3.vhd"
+vhdl work "Contador_8b.vhd"

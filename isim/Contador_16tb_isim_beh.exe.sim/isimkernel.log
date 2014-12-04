@@ -1,0 +1,10 @@
+Command line:
+   Contador_16tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49326
+
+Tue Dec 02 23:30:54 2014
+
+
+ Elaboration Time: 1.01401 sec
